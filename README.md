@@ -268,7 +268,7 @@ rank_results(results,
 
 ![](README_files/figure-markdown_github/unnamed-chunk-14-1.png)
 
-<br / >
+<br  >
 
 ### Test final model on testing set
 
