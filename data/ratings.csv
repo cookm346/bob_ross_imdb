@@ -1,0 +1,346 @@
+season,episode,title,year,total_votes,avg_rating
+1,1,A Walk in the Woods,1983,60,9.2
+1,2,Mt. McKinley,1983,48,9.4
+1,3,Ebony Sunset,1983,39,9.3
+1,4,Winter Mist,1983,33,9.2
+1,5,Quiet Stream,1983,31,9.1
+1,6,Winter Moon,1983,29,9.5
+1,7,Autumn Mountains,1983,26,9.4
+1,8,Peaceful Valley,1983,25,9.4
+1,9,Seascape,1983,26,9.2
+1,10,Mountain Lake,1983,24,9.5
+1,11,Winter Glow,1983,23,9.5
+1,12,Snow Fall,1983,24,9.5
+1,13,Final Reflections,1983,27,9.6
+2,1,Meadow Lake,1983,28,9.4
+2,2,Winter Sun,1983,23,9.3
+2,3,Ebony Sea,1983,23,9.5
+2,4,Shades of Grey,1983,26,9.7
+2,5,Autumn Splendor,1983,22,9.5
+2,6,Black River,1983,24,9.2
+2,7,Brown Mountain,1983,23,9.5
+2,8,Reflections,1983,25,9.2
+2,9,Black and White Seascape,1983,23,9.4
+2,10,Lazy River,1983,24,9.4
+2,11,Black Waterfall,1983,23,9.5
+2,12,Mountain Waterfall,1983,23,9.2
+2,13,Final Grace,1983,21,9.4
+3,1,Mountain Retreat,1984,25,9.2
+3,2,Blue Moon,1984,23,9.2
+3,3,Bubbling Stream,1984,22,9.5
+3,4,Winter Night,1984,23,9.2
+3,5,Distant Hills,1984,20,9.3
+3,6,Covered Bridge,1984,22,9.2
+3,7,Quiet Inlet,1984,24,9.2
+3,8,Night Light,1984,20,9.4
+3,9,The Old Mill,1984,20,9.6
+3,10,Campfire,1984,25,9.6
+3,11,Rustic Barn,1984,18,9.7
+3,12,Hidden Lake,1984,18,9.8
+3,13,Peaceful Waters,1984,17,9.8
+4,1,Purple Splendor,1984,22,9.3
+4,2,Tranquil Valley,1984,17,9.8
+4,3,Majestic Mountains,1984,20,9.8
+4,4,Winter Sawscape,1984,17,9.8
+4,5,Evening Seascape,1984,20,9.6
+4,6,Warm Summer Day,1984,19,9.6
+4,7,Cabin in the Woods,1984,24,9.1
+4,8,Wetlands,1984,19,9.8
+4,9,Cool Waters,1984,20,9.8
+4,10,Quiet Woods,1984,18,9.6
+4,11,Autumn Glory,1984,17,9.7
+4,12,Autumn Days,1984,22,9.8
+4,13,Mountain Challenge,1984,20,9.3
+5,1,Mountain Waterfall,1985,25,9.9
+5,2,Twilight Meadow,1985,18,9.8
+5,3,Mountain Blossoms,1985,16,9.7
+5,4,Winter Stillness,1985,16,9.8
+5,5,Quiet Pond,1985,16,9.6
+5,6,Ocean Sunrise,1985,15,9.7
+5,7,Bubbling Brook,1985,16,9.8
+5,8,Arizona Splendor,1985,15,9.6
+5,9,Anatomy of a Wave,1985,15,9.1
+5,10,The Windmill,1985,14,9.6
+5,11,Autumn Glory,1985,19,9.9
+5,12,Indian Girl,1985,14,9.5
+5,13,Meadow Stream,1985,17,9.6
+6,1,Blue River,1985,17,9.7
+6,2,Nature's Edge,1985,15,9.7
+6,3,Morning Mist,1985,15,9.8
+6,4,Whispering Stream,1985,15,9.7
+6,5,Secluded Forest,1985,18,9.5
+6,6,Snow Trail,1985,15,9.5
+6,7,Arctic Beauty,1985,17,9.5
+6,8,Horizons West,1985,15,9.7
+6,9,High Chateau,1985,16,9.5
+6,10,Country Life,1985,15,9.7
+6,11,Western Expanse,1985,15,9.7
+6,12,Marshlands,1985,17,9.6
+6,13,Blaze of Color,1985,15,9.7
+7,1,Winter Cabin,1985,17,9.4
+7,2,Secluded Lake,1985,14,9.7
+7,3,Evergreen at Sunset,1985,15,9.7
+7,4,Mountain Cabin,1985,16,9.9
+7,5,Portrait of Sally,1985,13,9.1
+7,6,Misty Waterfall,1985,13,9.7
+7,7,Barn at Sunset,1985,15,9.5
+7,8,Mountain Splendor,1985,13,9.8
+7,9,Lake by Mountain,1985,13,9.5
+7,10,Mountain Glory,1985,14,9.5
+7,11,Grey Winter,1985,14,9.5
+7,12,Dock Scene,1985,14,9.4
+7,13,Dark Waterfall,1985,14,9.6
+8,1,Misty Rolling Hills,1986,15,9.3
+8,2,Lakeside Cabin,1986,15,9.7
+8,3,Warm Winter Day,1986,14,9.6
+8,4,Waterside Way,1986,16,9.8
+8,5,Hunter's Haven,1986,14,9.7
+8,6,Bubbling Mountain Brook,1986,15,9.9
+8,7,Winter Hideaway,1986,15,9.5
+8,8,Foot of the Mountain,1986,14,9.8
+8,9,Majestic Pine,1986,14,9.6
+8,10,Cactus at Sunset,1986,16,9.9
+8,11,Mountain Range,1986,15,9.8
+8,12,Lonely Retreat,1986,14,9.5
+8,13,Northern Lights,1986,13,9.8
+9,1,Winter Evergreens,1986,15,9.7
+9,2,Surf's Up,1986,14,9.7
+9,3,Red Sunset,1986,15,9.8
+9,4,Meadow Road,1986,13,9.7
+9,5,Winter Oval,1986,14,9.4
+9,6,Secluded Beach,1986,12,9.8
+9,7,Forest Hills,1986,12,9.8
+9,8,Little House by the Road,1986,14,9.4
+9,9,Mountain Path,1986,15,9.8
+9,10,Country Charm,1986,12,9.7
+9,11,Nature's Paradise,1986,13,9.7
+9,12,Mountain by the Sea,1986,14,9.5
+9,13,Mountain Hideaway,1986,14,9.7
+10,1,Towering Peaks,1986,22,9.2
+10,2,Cabin at Sunset,1986,19,8.9
+10,3,Twin Falls,1986,18,8.9
+10,4,Secluded Bridge,1986,18,9.1
+10,5,Ocean Breeze,1986,21,8.9
+10,6,Autumn Woods,1986,16,9.2
+10,7,Winter Solitude,1986,19,9
+10,8,Golden Sunset,1986,17,9.4
+10,9,Mountain Oval,1986,16,9.2
+10,10,Ocean Sunset,1986,18,9.3
+10,11,Triple View,1986,18,9.2
+10,12,Winter Frost,1986,19,9.3
+10,13,Lakeside Cabin,1986,16,9.2
+11,1,Mountain Stream,1986,7,8.6
+11,2,Country Cabin,1987,7,8
+11,3,Daisy Delight,1987,9,7.8
+11,4,Hidden Stream,1987,7,8.6
+11,5,Towering Glacier,1987,6,8.5
+11,6,Oval Barn,1987,7,8
+11,7,Lakeside Path,1987,7,8.3
+11,8,Sunset Oval,1987,5,9.2
+11,9,Winter Barn,1987,7,8.3
+11,10,Sunset Over the Waves,1987,8,8.8
+11,11,Golden Glow,1987,6,8.7
+11,12,Roadside Barn,1987,9,8
+11,13,Happy Accident,1987,7,8.6
+12,1,Golden Knoll,1987,7,7.7
+12,3,Secluded Mountain,1987,6,8.3
+12,4,Bright Autumn Trees,1987,6,8.8
+12,5,Black Seascape,1987,8,8.5
+12,6,Steep Mountains,1987,5,8.8
+12,7,Quiet Mountain River,1987,7,8.4
+12,8,Evening Waterfall,1987,6,9
+12,9,Tropical Seascape,1987,7,8.9
+12,10,Mountain at Sunset,1987,7,8.7
+12,11,Soft Mountain Glow,1987,6,8.8
+12,12,Mountain in an Oval,1987,5,9.4
+12,13,Winter Mountain,1987,7,8.1
+13,1,Rolling Hills,1987,6,8.7
+13,2,Frozen Solitude,1987,6,8.8
+13,3,Meadow Brook,1987,5,8.4
+13,4,Evening at Sunset,1987,6,9.2
+13,5,Mountain View,1987,5,8.4
+13,6,Hidden Creek,1987,6,9
+13,7,Peaceful Haven,1987,6,8.7
+13,8,Mountain Exhibition,1987,7,8.4
+13,9,Emerald Waters,1987,8,8.1
+13,10,Mountain Summit,1987,5,9.2
+13,11,Cabin Hideaway,1987,5,8.8
+13,12,Oval Essence,1987,6,9.3
+13,13,Lost Lake,1987,5,9.2
+14,1,Distant Mountains,1987,5,9
+14,5,Mountain River,1988,5,8.8
+15,1,Splendor of Winter,1988,6,8.5
+15,3,Grandpa's Barn,1988,5,8.6
+15,4,Peaceful Reflections,1988,5,8.8
+15,5,Hidden Winter Moon Oval,1988,8,9.2
+15,6,Waves of Wonder,1988,6,8
+15,9,Christmas Eve Snow,1988,5,8.6
+15,13,Peaks of Majesty,1988,5,9.6
+16,1,Two Seasons,1988,6,9.3
+16,2,Nestled Cabin,1988,6,8.7
+16,3,Wintertime Discovery,1988,5,9
+16,4,Mountain Mirage,1988,6,8.5
+16,5,Double Oval Fantasy,1988,5,8.8
+16,6,Contemplative Lady,1988,5,7
+16,7,Deep Woods,1988,5,8.2
+16,11,Waterfall Wonder,1988,5,8.6
+16,12,Mighty Mountain Lake,1988,5,8.6
+16,13,Wooded Stream Oval,1988,6,9.2
+17,1,Golden Mist Oval,1989,5,8.8
+17,4,Stormy Seas,1989,6,8.3
+17,6,A Mild Winter's Day,1989,5,9.4
+17,10,Old Country Mill,1989,7,7.7
+17,11,Morning Walk,1989,5,8.4
+17,12,Nature's Speldor,1989,5,8.8
+18,1,Half-Oval Vignette,1989,5,8.2
+18,2,Absolutely Autumn,1989,5,8.2
+18,3,Mountain Seclusion,1989,5,8.8
+18,6,Majestic Peaks,1989,7,8.7
+18,7,Golden Morning Mist,1989,5,8.8
+18,8,Winter Lace,1989,6,7.7
+18,9,Seascape Fantasy,1989,5,8.6
+18,10,Double Oval Stream,1989,6,8.5
+18,11,Enchanted Forest,1989,5,8.8
+18,12,Southwest Serenity,1989,5,8.6
+19,1,Snowfall Magic,1990,6,8.5
+19,2,Quiet Mountain Lake,1990,5,8.8
+19,4,Snowy Morn,1990,5,8.6
+19,6,Waterfall in the Woods,1990,6,9
+19,8,Scenic Seclusion,1990,5,8.4
+19,9,Ebb Tide,1990,5,9
+19,10,After the Rain,1990,5,8.4
+19,12,Evening's Peace,1990,6,8.3
+19,13,Valley of Tranquility,1990,5,8.8
+20,1,Mystic Mountain,1990,14,8.5
+20,2,New Day's Dawn,1990,9,9
+20,3,Pastel Winter,1990,16,9.4
+20,4,Hazy Day,1990,8,8.6
+20,5,Divine Elegance,1990,7,8.4
+20,6,Cliffside,1990,27,8.1
+20,7,Autumn Fantasy,1990,10,8.5
+20,8,The Old Oak Tree,1990,9,8.1
+20,9,Winter Paradise,1990,8,8.5
+20,10,Days Gone By,1990,8,7.6
+20,11,Change of Seasons,1990,8,8.4
+20,12,Hidden Delight,1990,5,8.6
+20,13,Double Take,1990,14,8.9
+21,1,Valley View,1990,12,9
+21,2,Tranquil Dawn,1990,9,8
+21,3,Royal Majesty,1990,7,8.4
+21,4,Serenity,1990,9,8.4
+21,5,Cabin at Trail's End,1990,8,8.1
+21,6,Mountain Rhapsody,1990,9,8.3
+21,7,Wilderness Cabin,1990,16,8.2
+21,8,By the Sea,1990,5,9.4
+21,10,Blue Winter,1990,8,8.9
+21,11,Desert Glow,1990,6,8.3
+21,12,Lone Mountain,1990,6,8.8
+21,13,Florida's Glory,1990,5,8.6
+22,1,Autumn Images,1991,6,8.8
+22,2,Hint of Springtime,1991,5,9
+22,4,Countryside Oval,1991,7,8.3
+22,5,Russet Winter,1991,7,8.3
+22,6,Purple Haze,1991,6,8.7
+22,7,Dimensions,1991,10,8.1
+22,8,Deep Wilderness Home,1991,12,8.3
+22,9,Haven in the Valley,1991,8,8.2
+22,10,Wintertime Blues,1991,11,7.9
+22,11,Pastel Seascape,1991,12,7.8
+22,12,Country Creek,1991,9,8
+22,13,Silent Forest,1991,11,8.5
+23,1,Frosty Winter Morn,1991,10,7.9
+23,2,Forest Edge,1991,10,8.2
+23,3,Mountain Ridge Lake,1991,8,8.8
+23,4,Reflections of Gold,1991,10,8
+23,5,Quiet Cove,1991,6,8.5
+23,7,At Dawn's Light,1991,12,8.7
+23,8,Valley Waterfall,1991,5,9
+23,9,Toward Day's End,1991,5,8.6
+23,10,Falls in the Glen,1991,5,8.4
+23,11,Frozen Beauty in Vignette,1991,9,7.6
+23,12,Crimson Tide,1991,12,7.2
+23,13,Winter Bliss,1991,10,7.9
+24,1,Gray Mountain,1992,5,9.4
+24,2,Wayside Pond,1992,7,8.4
+24,3,Teton Winter,1992,9,9.1
+24,5,A Pretty Autumn Day,1992,5,8.2
+24,6,Mirrored Images,1992,7,8.1
+24,7,Back-Country Path,1992,5,8.4
+24,8,Graceful Waterfall,1992,5,8.4
+24,9,Icy Lake,1992,9,8.4
+24,11,Portrait of Winter,1992,7,8.1
+24,12,The Footbridge,1992,5,8.8
+24,13,Snowbound Cabin,1992,8,7.9
+25,3,Not Quite Spring,1992,10,8.6
+25,6,Oriental Falls,1992,6,8.8
+25,8,Cypress Swamp,1992,8,8.2
+25,10,Just Before the Storm,1992,5,9.4
+25,11,Fisherman's Paradise,1992,5,9
+25,12,Desert Hues,1992,6,8.2
+25,13,The Property Line,1992,8,7.1
+26,1,In the Stillness of the Morning,1992,5,9
+26,4,Lake in the Valley,1992,5,9
+26,5,A Trace of Spring,1992,5,8.2
+26,6,An Arctic Winter Day,1993,10,8.8
+26,7,Snow Birch,1993,10,8.9
+26,8,Early Autumn,1993,5,8.4
+26,9,Tranquil Wooded Stream,1993,5,9.4
+26,11,Storm's a Comin',1993,6,8.7
+26,12,Sunset Aglow,1993,7,7.9
+26,13,Evening at the Falls,1993,5,9
+27,2,Angler's Haven,1993,5,9.2
+27,3,Rustic Winter Woods,1993,11,8.3
+27,5,Winter at the Farm,1993,8,7.5
+27,7,A Spectacular View,1993,6,8.2
+27,9,Island Paradise,1993,5,8.8
+27,11,Splendor of a Snowy Winter,1993,9,8.6
+27,13,Golden Glow of Morning,1993,7,9.1
+28,1,Fisherman's Trail,1993,10,8.6
+28,2,A Warm Winter,1993,9,7.8
+28,3,Under Pastel Skies,1993,5,8.2
+28,4,Golden Rays of Sunlight,1993,6,9.5
+28,6,Glacier Lake,1993,6,7.8
+28,8,Deep Forest Falls,1993,5,8.6
+28,9,Winter's Grace,1993,10,7.6
+28,11,Tranquil Seas,1993,5,8.2
+28,12,Mountain Serenity,1993,5,8.4
+28,13,Home Before Nightfall,1993,8,9
+29,1,Island in the Wilderness,1993,13,9.2
+29,2,Autumn Oval,1993,8,9
+29,3,Seasonal Progression,1993,7,8.7
+29,4,Light at the Summit,1993,7,8.4
+29,5,Countryside Barn,1993,5,8
+29,6,Mountain Lake Falls,1993,12,8.4
+29,7,Cypress Creek,1993,5,9.2
+29,8,Trapper's Cabin,1993,6,8.2
+29,9,Storm on the Horizon,1993,5,8.4
+29,10,Pot o' Posies,1993,6,8
+29,11,A Perfect Winter Day,1993,8,8.4
+29,12,Aurora's Dance,1993,7,7.6
+29,13,Woodman's Retreat,1993,6,8.3
+30,1,Babbling Brook,1993,7,9.1
+30,2,Woodgrain View,1993,6,8.5
+30,3,Winter's Peace,1993,10,8
+30,4,Wilderness Trail,1993,5,8.8
+30,5,A Copper Winter,1993,10,6.9
+30,6,Misty Foothills,1993,6,8.8
+30,7,Through the Window,1994,11,8.6
+30,8,Home in the Valley,1994,8,9
+30,9,Mountains of Grace,1994,8,7.8
+30,10,Seaside Harmony,1994,5,8.6
+30,11,A Cold Spring Day,1994,8,8.5
+30,12,Evening's Glow,1994,7,8.4
+30,13,Blue Ridge Falls,1994,6,8.8
+31,1,Reflections of Calm,1994,12,9.2
+31,2,Before the Snowfall,1994,12,8.8
+31,3,Winding Stream,1994,8,8.4
+31,4,Tranquility Cove,1994,9,9
+31,5,Cabin in the Hollow,1994,12,8.4
+31,6,View from Clear Creek,1994,8,9
+31,7,Bridge to Autumn,1994,10,8.2
+31,8,Trail's End,1994,7,8.3
+31,9,Evergreen Valley,1994,9,9
+31,10,Balmy Beach,1994,12,9.5
+31,11,Lake at the Ridge,1994,9,8.8
+31,12,In the Midst of Winter,1994,12,8.7
+31,13,Wilderness Day,1994,50,9.5
