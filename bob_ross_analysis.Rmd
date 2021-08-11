@@ -249,7 +249,7 @@ rank_results(results,
 
 ```
 
-<br / >
+<br />
 
 ### Test final model on testing set
 
